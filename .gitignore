@@ -5,8 +5,9 @@ _site/
 # Ignore the directory for local files during development
 local/
 
-# Ignore the Gemfile that is generated
+# Ignore the Gemfile and Jekyll that is generated
 Gemfile.lock
+.jekyll-metadata
 
 # Ingore files created by npm
 node_modules
