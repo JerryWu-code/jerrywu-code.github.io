@@ -43,8 +43,8 @@ jobs:
       - name: Verify Ruby
         run: ruby -v
 
-      - name: Install Bundler
-        run: gem install bundler
+      - name: Verify Bundler
+        run: bundle -v
 
       - name: Install dependencies with Bundler
         run: bundle install
