@@ -34,12 +34,12 @@ author:
   arxiv            : # "coming soon"
   googlescholar    : "https://scholar.google.com/citations?user=xrWDBjcAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0003-2395-734X"
+  orcid            : # "https://orcid.org/0009-0003-2395-734X"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  openreview       : "https://openreview.net/profile?id=~Qilong_Wu2"
+  openreview       : # "https://openreview.net/profile?id=~Qilong_Wu2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
