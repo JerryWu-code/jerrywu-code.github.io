@@ -44,15 +44,11 @@ jobs:
       # - name: Setup Bundler PATH
       #   run: echo "/opt/homebrew/lib/ruby/gems/3.3.0/bin" >> $GITHUB_PATH
 
-      - name: Install Bundler locally
-        run: gem install bundler --user-install
-      - name: Add local gems to PATH
-        run: echo "$HOME/.gem/ruby/$(ruby -e 'puts RUBY_VERSION')/bin" >> $GITHUB_PATH
-        
-      - name: Verify Ruby
-        run: ruby -v
-      - name: Verify Bundler
-        run: bundle -v
+      - name: Install Bundler locally and Add local gems to PATH
+        run: |      
+          echo "/opt/homebrew/Cellar/ruby/3.3.6/bin" >> $GITHUB_PATH
+          gem install bundler --user-install
+          bundle -v
 
       - name: Install dependencies with Bundler
         run: bundle install
