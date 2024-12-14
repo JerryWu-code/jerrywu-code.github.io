@@ -27,7 +27,7 @@ Under Review in ICLR, 2025
 ### SusGen-GPT: A Data-Centric LLM for Financial NLP and Sustainability Report Generation
 <p style="line-height:1.0">
 <font size="2">
-Qilong Wu†, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
+<strong>Qilong Wu†</strong>, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
 Under Review in NAACL via ARR Oct, 2025
 <a href="{{ site.baseurl }}/files/susgen_arxiv.pdf" target="_blank">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen">Code</a>
