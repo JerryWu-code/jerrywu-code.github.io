@@ -47,7 +47,7 @@ arXiv Preprint, 2024
 </font>
 </p>
 ------
-<img style="float: left; margin:5px 10px" src="../images/pubs/label-cri/model.jpg" width="160" height="140">
+<img style="float: left; margin:5px 10px" src="../images/pubs/label-cri/model.jpg" width="160" height="180">
 ### Label Critic: Design Data Before Models
 <p style="line-height:1.0">
 <font size="2">
