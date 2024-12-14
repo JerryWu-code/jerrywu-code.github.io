@@ -12,6 +12,41 @@ My research interests lie in **Multi-modal learning**, spanning video, music, pl
 
 Publications & Preprints
 ------
+<img style="float: left; margin:5px 10px" src="../images/gvmr/model.jpg" width="160" height="140">
+### Generalized Video Moment Retrieval
+<p style="line-height:1.0">
+<font size="2">
+You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann†<br />
+Under Review in ICLR, 2025
+<a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> | 
+<br />
+</font>
+</p>
+------
+<img style="float: left; margin:5px 10px" src="../images/cva/model.jpg" width="160" height="140">
+### Learning to Animate Images from A Few Videos to Portray Delicate Human Actions
+<p style="line-height:1.0">
+<font size="2">
+Haoxin Li, Yingchen Yu, <strong>Qilong Wu</strong>, Hanwang Zhang, Boyang Li, Song Bai†<br />
+Under Review, 2025
+<a href="https://openreview.net/pdf?id=3By4N0GAdt">Paper</a> |
+<a href="https://cva2099.github.io/human_action_animation/">Project Page</a> |
+<br />
+</font>
+</p>
+------
+<img style="float: left; margin:5px 10px" src="../images/mumullama/model.jpg" width="160" height="140">
+### MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models
+<p style="line-height:1.0">
+<font size="2">
+Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
+arXiv Preprint, 2024
+<a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> |
+<a href="https://github.com/shansongliu/M2UGen">Code</a> |
+<br />
+</font>
+</p>
+------
 
 Academic Services
 ------
