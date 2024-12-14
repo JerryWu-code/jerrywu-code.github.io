@@ -13,15 +13,15 @@ My research interests lie in **Multi-modal learning**, spanning video, music, pl
 
 Academic Services
 ------
-•	Reviewer of International Conference on Machine Learning (**ICML**), 2025.
-•	Reviewer of International Conference on Learning Representations (**ICLR**), 2025.
-•	Reviewer of International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2025.
-•	Reviewer of Conference on Neural Information Processing Systems (**NIPS**), 2024.
-•	Reviewer of ACM International Conference on Multimedia (**ACM MM**), 2024.
+•	Reviewer of International Conference on Machine Learning (**ICML**), 2025.<br />
+•	Reviewer of International Conference on Learning Representations (**ICLR**), 2025.<br />
+•	Reviewer of International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2025.<br />
+•	Reviewer of Conference on Neural Information Processing Systems (**NIPS**), 2024.<br />
+•	Reviewer of ACM International Conference on Multimedia (**ACM MM**), 2024.<br />
 
 Miscellaneous
 ------
-•	**President** of the Student Union in Physics Department, 2020-2021.
-•	Prepared to be a professional mobile game player in **SanGuoSha Mobile** in my Bachelor period but failed, finally ranked 243th **Nationally** over 10,000,000 players, 2021-2022.
-•	Accomplished the First Peak of Mount Siguniang (**5,038m**) [[news](http://bbs.lvye.cn/thread-2635185-1-1.html)] and the Main peak of Que’er Mountain (**6,168m**) [[news](http://bbs.lvye.cn/thread-2635578-1-1.html)], 2019.
-•	Coded in Quick-Basic45 language for two years and won the **Champion** in the Java/C++/Basic Programing Competition in Beijing Shunyi District over more than a thousand participants when I was 12 in elementary school, 2012. [[QB45-code](https://github.com/JerryWu-code/Code-Memory)]
+•	**President** of the Student Union in Physics Department, 2020-2021.<br />
+•	Prepared to be a professional mobile game player in **SanGuoSha Mobile** in my Bachelor period but failed, finally ranked 243th **Nationally** over 10,000,000 players, 2021-2022.<br />
+•	Accomplished the First Peak of Mount Siguniang (**5,038m**) [[news](http://bbs.lvye.cn/thread-2635185-1-1.html)] and the Main peak of Que’er Mountain (**6,168m**) [[news](http://bbs.lvye.cn/thread-2635578-1-1.html)], 2019.<br />
+•	Coded in Quick-Basic45 language for two years and won the **Champion** in the Java/C++/Basic Programing Competition in Beijing Shunyi District over more than a thousand participants when I was 12 in elementary school, 2012. [[QB45-code](https://github.com/JerryWu-code/Code-Memory)]<br />
