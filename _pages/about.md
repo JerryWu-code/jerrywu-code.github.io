@@ -54,7 +54,7 @@ Under Review, 2025
 <font size="2">
 Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
 arXiv Preprint, 2024
-<a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> |
+<a href="https://arxiv.org/pdf/2412.06660">Paper</a> |
 <a href="https://github.com/shansongliu/M2UGen">Code</a> |
 <a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video Demo</a>
 <br />
