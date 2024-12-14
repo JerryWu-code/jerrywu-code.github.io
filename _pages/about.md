@@ -29,8 +29,9 @@ Under Review in ICLR, 2025
 <font size="2">
 Qilong Wu†, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
 Under Review in NAACL via ARR Oct, 2025
-<a href="{{ site.baseurl }}/files/susgen_arxiv.pdf">Paper</a> |
+<a href="{{ site.baseurl }}/files/susgen_arxiv.pdf" target="_blank">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen">Code</a>
+<a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a>
 <br />
 </font>
 </p>
@@ -54,7 +55,8 @@ Under Review, 2025
 Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
 arXiv Preprint, 2024
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> |
-<a href="https://github.com/shansongliu/M2UGen">Code</a>
+<a href="https://github.com/shansongliu/M2UGen">Code</a> |
+<a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video Demo</a>
 <br />
 </font>
 </p>
