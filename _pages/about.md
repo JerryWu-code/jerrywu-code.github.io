@@ -12,11 +12,12 @@ My research interests lie in **Multi-modal learning**, spanning video, music, pl
 
 Publications & Preprints
 ------
+* Equal contribution, † Corresponding author
 <img style="float: left; margin:5px 10px" src="../images/pubs/gvmr/model.jpg" width="160" height="140">
 ### Generalized Video Moment Retrieval
 <p style="line-height:1.0">
 <font size="2">
-You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann†<br />
+You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji†, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann†<br />
 Under Review in ICLR, 2025
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a>
 <br />
