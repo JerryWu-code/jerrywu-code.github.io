@@ -29,7 +29,7 @@ Under Review in ICLR, 2025
 <font size="2">
 Qilong Wu†, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
 Under Review in NAACL via ARR Oct, 2025
-<a href="{{ site.baseurl }}/files/susgen-arxiv.pdf">Paper</a> |
+<a href="{{ site.baseurl }}/files/susgen_arxiv.pdf">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen">Code</a>
 <br />
 </font>
