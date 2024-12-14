@@ -74,3 +74,9 @@ Miscellaneous
 •	Prepared to be a professional mobile game player in **SanGuoSha Mobile** in my Bachelor period but failed, finally ranked 243th **Nationally** over 10,000,000 players, 2021-2022.<br />
 •	Accomplished the First Peak of Mount Siguniang (**5,038m**) [[news](http://bbs.lvye.cn/thread-2635185-1-1.html)] and the Main peak of Que’er Mountain (**6,168m**) [[news](http://bbs.lvye.cn/thread-2635578-1-1.html)], 2019.<br />
 •	Coded in Quick-Basic45 language for two years and won the **Champion** in the Java/C++/Basic Programing Competition in Beijing Shunyi District over more than a thousand participants when I was 12 in elementary school, 2012. [[code](https://github.com/JerryWu-code/Code-Memory)]<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JerryWu-code/JerryWu-code/output/contribution-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JerryWu-code/JerryWu-code/output/contribution-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JerryWu-code/JerryWu-code/output/contribution-snake.svg">
+</picture>
