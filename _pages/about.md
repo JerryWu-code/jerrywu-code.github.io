@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Qilong Wu, a MSc student at **National University of Singapore**. Previously, I held a Bachelor Degree of Physics. I was luckily advised by [Dr. Zongwei Zhou](https://www.zongweiz.com/) and Bloomberg Distinguished [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) at [CCVL](https://ccvl.jhu.edu/) research group@[JHU](https://www.jhu.edu/). Previously, I also spent a wonderful time with [Prof. Bharadwaj Veeravalli](https://scholar.google.com/citations?user=IqAJttsAAAAJ&hl=en), [Prof. Roger Zimmermann](https://scholar.google.com.tw/citations?user=IDREwXEAAAAJ)@NUS.
+Hi! I’m Qilong Wu, a MSc student at **National University of Singapore**, and I became extreme passionate about AI since Sep. 2023. I was luckily advised by [Dr. Zongwei Zhou](https://www.zongweiz.com/) and Bloomberg Distinguished [Prof. Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/) at [CCVL](https://ccvl.jhu.edu/)@**Johns Hopkins University**. Previously, I also spent a wonderful time with [Prof. Bharadwaj Veeravalli](https://scholar.google.com/citations?user=IqAJttsAAAAJ&hl=en), [Prof. Roger Zimmermann](https://scholar.google.com.tw/citations?user=IDREwXEAAAAJ)@NUS. Prior to that, I received my BSc degree in Physics from **Xiamen University**, focusing on Chaos theory and Bio-physics.
 
 My research interests lie in **Multi-modal learning**, spanning video, music, planning, medical, etc., with a broader focus on leveraging **diffusion models**, **physics-informed** learning and **LLMs** for diverse real-world applications; Additionally, I am also keen on exploring **why** these models work and how to make them more interpretable and robust.
+
+Publications & Preprints
+------
 
 Academic Services
 ------
