@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # "coming soon"
-  googlescholar    : "coming soon"
+  googlescholar    : "https://scholar.google.com/citations?user=xrWDBjcAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -59,11 +59,11 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "qilong-wu-352928209" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
-  soundcloud       : # Username
+  soundcloud       : "jerry-wu-17334595" # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username

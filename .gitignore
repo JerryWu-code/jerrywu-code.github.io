@@ -9,6 +9,9 @@ local/
 Gemfile.lock
 .jekyll-metadata
 
-# Ingore files created by npm
+# Ignore files created by npm
 node_modules
 package-lock.json
+
+# Ignore system files
+.DS_Store
