@@ -12,7 +12,7 @@ My research interests lie in **Multi-modal learning**, spanning video, music, pl
 
 Publications & Preprints
 ------
-* Equal contribution, † Corresponding author
+\* Equal contribution, † Corresponding author
 
 <img style="float: left; margin:5px 10px" src="../images/pubs/gvmr/model.jpg" width="160" height="140">
 ### Generalized Video Moment Retrieval
