@@ -47,6 +47,18 @@ arXiv Preprint, 2024
 </font>
 </p>
 ------
+<img style="float: left; margin:5px 10px" src="../images/pubs/label-cri/model.jpg" width="160" height="140">
+### Label Critic: Design Data Before Models
+<p style="line-height:1.0">
+<font size="2">
+Pedro R. A. S. Bassi, <strong>Qilong Wu*</strong>, Wenxuan Li, Sergio Decherchi, Andrea Cavalli, Alan Yuille, Zongwei Zhou†<br />
+arXiv Preprint, 2024
+<a href="https://arxiv.org/pdf/2411.02753">Paper</a> |
+<a href="https://github.com/PedroRASB/Cerberus">Code</a>
+<br />
+</font>
+</p>
+------
 
 Academic Services
 ------
