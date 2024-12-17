@@ -30,7 +30,7 @@ Under Review in ICLR, 2025
 <p style="line-height:1.0">
 <font size="2">
 <strong>Qilong Wu†</strong>, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
-Under Review in NAACL via ARR Oct, 2025
+arXiv Preprint, Under Review in NAACL via ARR Oct, 2025
 <a href="https://arxiv.org/pdf/2412.10906">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen">Code</a> |
 <a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a>
@@ -43,7 +43,7 @@ Under Review in NAACL via ARR Oct, 2025
 <p style="line-height:1.0">
 <font size="2">
 Haoxin Li, Yingchen Yu, <strong>Qilong Wu</strong>, Hanwang Zhang, Boyang Li, Song Bai†<br />
-Under Review, 2025
+Under Review in CVPR, 2025
 <a href="https://openreview.net/pdf?id=3By4N0GAdt">Paper</a> |
 <a href="https://cva2099.github.io/human_action_animation/">Project Page</a>
 <br />
