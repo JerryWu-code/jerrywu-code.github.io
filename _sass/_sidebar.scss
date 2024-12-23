@@ -18,9 +18,12 @@
     // overflow-y: auto;               // Add scrollbar if the sidebar is too long
     // position: fixed;
     // padding-top: $masthead-height;
-    position: relative; // Remove fixed position
+    position: sticky; // Make the sidebar sticky
+    top: calc(100vh - 300px); // Make sidebar all visible when approaching the bottom of page
     height: auto; // Remove fixed height
-    padding-bottom: 100px; // Add padding to the bottom of the sidebar
+    padding-bottom: 100px; // Remaining space for sidebar to scroll
+    overflow: visible; // Allow sidebar to overflow
+    transition: top 0.3s ease-in-out; // Smooth transition
   }
 
   @include breakpoint($large) {
@@ -265,7 +268,7 @@
 #mapContainer {
   position: relative;
   margin-top: 20px; /* top of the screen */
-  right: 20px; /* right side of the screen */
+  // right: 20px; /* right side of the screen */
   width: 300px; /* width of the map */
-  z-index: 1000; /* overlapping the other elements */
+  // z-index: 1000; /* overlapping the other elements */
 }
