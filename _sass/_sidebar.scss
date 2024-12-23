@@ -21,9 +21,11 @@
     position: sticky; // Make the sidebar sticky
     top: calc(100vh - 300px); // Make sidebar all visible when approaching the bottom of page
     height: auto; // Remove fixed height
+    margin-top: 0; // Remove margin top
     padding-bottom: 100px; // Remaining space for sidebar to scroll
     overflow: visible; // Allow sidebar to overflow
     transition: top 0.3s ease-in-out; // Smooth transition
+    margin-bottom: 0; // Remove margin bottom
   }
 
   @include breakpoint($large) {
@@ -267,7 +269,7 @@
 
 #mapContainer {
   position: relative;
-  margin-top: 20px; /* top of the screen */
+  margin-top: 10px; /* top of the screen */
   // right: 20px; /* right side of the screen */
   width: 300px; /* width of the map */
   // z-index: 1000; /* overlapping the other elements */
