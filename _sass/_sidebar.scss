@@ -19,7 +19,7 @@
     // position: fixed;
     // padding-top: $masthead-height;
     position: sticky; // Make the sidebar sticky
-    top: calc(100vh - 300px); // Make sidebar all visible when approaching the bottom of page
+    top: 0; // Stick to the top
     height: auto; // Remove fixed height
     margin-top: 0; // Remove margin top
     padding-bottom: 100px; // Remaining space for sidebar to scroll
