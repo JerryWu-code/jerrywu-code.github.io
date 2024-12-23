@@ -24,9 +24,20 @@
     margin-top: 0; // Remove margin top
     padding-bottom: 100px; // Remaining space for sidebar to scroll
     overflow: visible; // Allow sidebar to overflow
-    transition: top 0.3s ease-in-out; // Smooth transition
-    margin-bottom: 0; // Remove margin bottom
   }
+  
+  // set for scrolling to bottom behavior
+  .page-container {
+    display: flex;
+  }
+  .main-content {
+    flex: 1;
+  }
+  .sidebar {
+    top: calc(100vh - 300px); /* page to bottom */
+    transition: top 0.3s ease-in-out; /* smooth transition */
+  }
+  // end of scrolling to bottom behavior
 
   @include breakpoint($large) {
     @include span(2 of 12);
