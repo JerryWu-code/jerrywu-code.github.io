@@ -258,3 +258,11 @@
     }
   }
 }
+
+#mapContainer {
+  position: fixed;
+  bottom: 40px; /* from the bottom up to the screen */
+  right: 20px; /* right side of the screen */
+  width: 300px; /* width of the map */
+  z-index: 1000; /* overlapping the other elements */
+}
