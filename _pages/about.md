@@ -63,6 +63,18 @@ arXiv Preprint, 2024
 </font>
 </p>
 ------
+<img style="float: left; margin:5px 10px" src="../images/pubs/textmorph/model.jpg" width="160" height="140">
+### Text-Driven Tumor Synthesis
+<p style="line-height:1.0">
+<font size="2">
+Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <strong>Qilong Wu</strong>, Pengfei Guo, Dong Yang, Can Zhao, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou†<br />
+Under Review in CVPR, 2025
+<a href="https://arxiv.org/pdf/2412.18589">Paper</a> |
+<a href="https://github.com/MrGiovanni/TextoMorph">Code</a>
+<br />
+</font>
+</p>
+------
 <img style="float: left; margin:5px 10px" src="../images/pubs/label-cri/model.jpg" width="160" height="140">
 ### Label Critic: Design Data Before Models
 <p style="line-height:1.0">
