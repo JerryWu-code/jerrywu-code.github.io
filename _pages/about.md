@@ -55,7 +55,7 @@ Under Review in CVPR, 2025
 <p style="line-height:1.0">
 <font size="2">
 Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
-arXiv Preprint, Under Review in IEEE J-STSP, 2024
+arXiv Preprint, Under Review in IEEE J-STSP, 2025
 <a href="https://arxiv.org/pdf/2412.06660">Paper</a> |
 <a href="https://github.com/shansongliu/M2UGen">Code</a> |
 <a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video Demo</a>
