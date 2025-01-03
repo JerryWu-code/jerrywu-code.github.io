@@ -55,7 +55,7 @@ Under Review in CVPR, 2025
 <p style="line-height:1.0">
 <font size="2">
 Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
-arXiv Preprint, 2024
+arXiv Preprint, Under Review in IEEE J-STSP, 2024
 <a href="https://arxiv.org/pdf/2412.06660">Paper</a> |
 <a href="https://github.com/shansongliu/M2UGen">Code</a> |
 <a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video Demo</a>
@@ -68,7 +68,7 @@ arXiv Preprint, 2024
 <p style="line-height:1.0">
 <font size="2">
 Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <strong>Qilong Wu</strong>, Pengfei Guo, Dong Yang, Can Zhao, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou†<br />
-Under Review in CVPR, 2025
+arXiv Preprint, Under Review in CVPR, 2025
 <a href="https://arxiv.org/pdf/2412.18589">Paper</a> |
 <a href="https://github.com/MrGiovanni/TextoMorph">Code</a>
 <br />
