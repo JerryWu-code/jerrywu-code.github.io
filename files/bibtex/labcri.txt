@@ -1,0 +1,6 @@
+@article{bassi2024label,
+  title={Label Critic: Design Data Before Models},
+  author={Bassi, Pedro RAS and Wu, Qilong and Li, Wenxuan and Decherchi, Sergio and Cavalli, Andrea and Yuille, Alan and Zhou, Zongwei},
+  journal={arXiv preprint arXiv:2411.02753},
+  year={2024}
+}

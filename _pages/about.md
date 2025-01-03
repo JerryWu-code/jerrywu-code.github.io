@@ -33,7 +33,8 @@ Under Review in ICLR, 2025
 arXiv Preprint, Under Review in NAACL via ARR Oct, 2025
 <a href="https://arxiv.org/pdf/2412.10906">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen">Code</a> |
-<a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a>
+<a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a> |
+<a href="{{ site.baseurl }}/files/bibtex/susgen.txt" target="_blank">BibTeX</a>
 <br />
 </font>
 </p>
@@ -45,7 +46,8 @@ arXiv Preprint, Under Review in NAACL via ARR Oct, 2025
 Haoxin Li, Yingchen Yu, <strong>Qilong Wu</strong>, Hanwang Zhang, Boyang Li, Song Bai†<br />
 Under Review in CVPR, 2025
 <a href="https://openreview.net/pdf?id=3By4N0GAdt">Paper</a> |
-<a href="https://cva2099.github.io/human_action_animation/">Project Page</a>
+<a href="https://cva2099.github.io/human_action_animation/">Project Page</a> |
+<a href="{{ site.baseurl }}/files/bibtex/cva.txt" target="_blank">BibTeX</a>
 <br />
 </font>
 </p>
@@ -58,7 +60,9 @@ Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chensh
 arXiv Preprint, Under Review in IEEE J-STSP, 2025
 <a href="https://arxiv.org/pdf/2412.06660">Paper</a> |
 <a href="https://github.com/shansongliu/M2UGen">Code</a> |
-<a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video Demo</a>
+<a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video Demo</a> |
+<a href="https://crypto-code.github.io/MuMu-LLaMA_Demo/">Website</a> |
+<a href="{{ site.baseurl }}/files/bibtex/mumullama.txt" target="_blank">BibTeX</a>
 <br />
 </font>
 </p>
@@ -70,7 +74,8 @@ arXiv Preprint, Under Review in IEEE J-STSP, 2025
 Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <strong>Qilong Wu</strong>, Pengfei Guo, Dong Yang, Can Zhao, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou†<br />
 arXiv Preprint, Under Review in CVPR, 2025
 <a href="https://arxiv.org/pdf/2412.18589">Paper</a> |
-<a href="https://github.com/MrGiovanni/TextoMorph">Code</a>
+<a href="https://github.com/MrGiovanni/TextoMorph">Code</a> |
+<a href="{{ site.baseurl }}/files/bibtex/textmorph.txt" target="_blank">BibTeX</a>
 <br />
 </font>
 </p>
@@ -82,7 +87,8 @@ arXiv Preprint, Under Review in CVPR, 2025
 Pedro R. A. S. Bassi, <strong>Qilong Wu</strong>, Wenxuan Li, Sergio Decherchi, Andrea Cavalli, Alan Yuille, Zongwei Zhou†<br />
 Accepted by <a href="https://app.gleanin.com/share/campaigns/30001/variants">IEEE ISBI</a>, 2025
 <a href="https://arxiv.org/pdf/2411.02753">Paper</a> |
-<a href="https://github.com/PedroRASB/Cerberus">Code</a>
+<a href="https://github.com/PedroRASB/Cerberus">Code</a> |
+<a href="{{ site.baseurl }}/files/bibtex/labcri.txt" target="_blank">BibTeX</a>
 <br />
 </font>
 </p>

@@ -1,0 +1,6 @@
+@article{li2024text,
+  title={Text-Driven Tumor Synthesis},
+  author={Li, Xinran and Shuai, Yi and Liu, Chen and Chen, Qi and Wu, Qilong and Guo, Pengfei and Yang, Dong and Zhao, Can and Bassi, Pedro RAS and Xu, Daguang and others},
+  journal={arXiv preprint arXiv:2412.18589},
+  year={2024}
+}

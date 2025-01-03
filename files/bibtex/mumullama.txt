@@ -1,0 +1,6 @@
+@article{liu2024mumu,
+  title={MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models},
+  author={Liu, Shansong and Hussain, Atin Sakkeer and Wu, Qilong and Sun, Chenshuo and Shan, Ying},
+  journal={arXiv preprint arXiv:2412.06660},
+  year={2024}
+}
