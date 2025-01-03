@@ -80,7 +80,7 @@ Under Review in CVPR, 2025
 <p style="line-height:1.0">
 <font size="2">
 Pedro R. A. S. Bassi, <strong>Qilong Wu</strong>, Wenxuan Li, Sergio Decherchi, Andrea Cavalli, Alan Yuille, Zongwei Zhou†<br />
-arXiv Preprint, 2024
+Accepted by <a href="https://app.gleanin.com/share/campaigns/30001/variants">IEEE ISBI</a>, 2025
 <a href="https://arxiv.org/pdf/2411.02753">Paper</a> |
 <a href="https://github.com/PedroRASB/Cerberus">Code</a>
 <br />
