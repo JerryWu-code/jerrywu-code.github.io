@@ -1,0 +1,8 @@
+@inproceedings{anonymous2024generalized,
+  title={Generalized Video Moment Retrieval},
+  author={Anonymous},
+  booktitle={Submitted to The Thirteenth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=qdOIkeZ5e4},
+  note={under review}
+}
