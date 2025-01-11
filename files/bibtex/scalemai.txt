@@ -1,0 +1,7 @@
+@article{li2025scalemai,
+  title={ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models},
+  author={Li, Wenxuan and Bassi, Pedro RAS and Lin, Tianyu and Chou, Yu-Cheng and Zhou, Xinze and Tang, Yucheng and Isensee, Fabian and Wang, Kang and Chen, Qi and Xu, Xiaowei and others},
+  journal={arXiv preprint arXiv:2501.03410},
+  year={2025},
+  url={https://github.com/MrGiovanni/ScaleMAI}
+}

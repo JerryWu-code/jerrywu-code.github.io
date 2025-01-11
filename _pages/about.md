@@ -94,6 +94,19 @@ Accepted by <a href="https://app.gleanin.com/share/campaigns/30001/variants"><st
 </font>
 </p>
 ------
+<img style="float: left; margin:5px 10px" src="../images/pubs/scalemai/post.jpg" width="160" height="140">
+### ScaleMAI: Accelerating the Development of Trusted Datasets and AI Models
+<p style="line-height:1.0">
+<font size="2">
+Wenxuan Li, Pedro R. A. S. Bassi, Tianyu Lin, Yu-Cheng Chou, Xinze Zhou, Yucheng Tang, Fabian Isensee, Kang Wang, Qi Chen, Xiaowei Xu, Xiaoxi Chen, Lizhou Wu, <strong>Qilong Wu</strong>, Yannick Kirchhoff, Maximilian Rokuss, Saikat Roy, Yuxuan Zhao, Dexin Yu, Kai Ding, Constantin Ulrich, Klaus Maier-Hein, Yang Yang, Alan L. Yuille, Zongwei Zhou†<br />
+arXiv Preprint, Under Review in CVPR, 2025 |
+<a href="https://www.cs.jhu.edu/~zongwei/publication/li2025scalemai.pdf">Paper</a> |
+<a href="https://github.com/MrGiovanni/ScaleMAI">Code</a> |
+<a href="{{ site.baseurl }}/files/bibtex/scalemai.txt" target="_blank">BibTeX</a>
+<br />
+</font>
+</p>
+------
 
 Academic Services
 ------
