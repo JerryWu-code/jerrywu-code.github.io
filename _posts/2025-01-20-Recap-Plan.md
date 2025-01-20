@@ -1,4 +1,5 @@
 ---
+layout: single
 title: 'First Blog: Recap & Plan'
 date: 2025-01-20
 permalink: /posts/2025-01-20-Recap-Plan
@@ -7,6 +8,8 @@ tags:
   - Thought
   - Summary
 ---
+{% include toc %}
+
 > The best time to start is now. Never hesitate to do what you want to do.
 
 This is my first post since I started this personal academic website. After reading and inspired by many nice blogs, I decided to start my own blog to record my thoughts, ideas and reflections mostly focusing on AI, Cognitive Science, and Life. I will try to update it regularly as well transfer some of my thoughts in my memo to here, but I can't promise that I will keep it up. I will try my best to make it a good habit～ 😊
