@@ -2,6 +2,7 @@
 title: 'First Blog: Recap & Plan'
 date: 2025-01-20
 permalink: /posts/2025-01-20-Recap-Plan
+toc: true
 tags:
   - Thought
   - Summary
