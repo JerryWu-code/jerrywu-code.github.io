@@ -13,7 +13,7 @@ My current research interests lie in **Multi-modal learning**, spanning video, i
 News
 ------
 •	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/) 🎉!<br />
-•	**[Jan. 2025]** One paper about is accepted by [**IEEE ISBI 2025**](https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging) 🎉!<br />
+•	**[Jan. 2025]** One paper is accepted by [**IEEE ISBI 2025**](https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging) 🎉!<br />
 •	**[Jan. 2025]** We release [**SusGen-GPT**](https://github.com/JerryWu-code/SusGen), LLMs for report generation and finance NLP 📈.<br />
 •	**[Dec. 2024]** We release [**ScaleMAI**](https://github.com/MrGiovanni/ScaleMAI), iterative system to scale up Medical AI 🏥.<br />
 •	**[Dec. 2024]** We release [**MuMu-LLaMA**](https://github.com/shansongliu/MuMu-LLaMA) for multi-modal music Understanding and Gen 🎸.<br />
