@@ -29,7 +29,7 @@ Publications & Preprints
 <p style="line-height:1.0">
 <font size="2">
 You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji†, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann†<br />
-Accepted by <strong>ICLR</strong>, 2025 |
+Accepted by <a href="https://iclr.cc/"><strong>ICLR</strong></a>, 2025 |
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> |
 <a href="{{ site.baseurl }}/files/bibtex/gvmr.txt" target="_blank">BibTeX</a>
 <br />
