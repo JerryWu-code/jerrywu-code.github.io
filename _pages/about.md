@@ -10,6 +10,15 @@ redirect_from:
 Hi! I’m a MSc student at **National University of Singapore**, and I became extreme passionate about AI since Sep. 2023. I'm currently working at OpenGV-Alpha@**Shanghai AI Lab** mentored by [Dr. Peng Gao](https://scholar.google.com/citations?hl=en&user=_go6DPsAAAAJ&view_op=list_works&sortby=pubdate). And I was luckily advised by [Dr. Zongwei Zhou](https://scholar.google.com/citations?user=JVOeczAAAAAJ&hl=en) and Bloomberg Distinguished [Prof. Alan L. Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl) at [CCVL](https://ccvl.jhu.edu/)@**Johns Hopkins University**. Previously, I also spent a wonderful time with [Prof. Bharadwaj Veeravalli](https://scholar.google.com/citations?user=IqAJttsAAAAJ&hl=en), [Prof. Roger Zimmermann](https://scholar.google.com.tw/citations?user=IDREwXEAAAAJ)@NUS. Prior to that, I received my BSc degree in Physics, focusing on Nonlinear Dynamics & Chaos Theory and Bio-Physics.<br />
 My current research interests lie in **Multi-modal learning**, spanning video, image, action, audio, planning, medical, etc., with a broader focus on leveraging **diffusion models**, **physics-informed** learning and **LLMs** for diverse real-world applications; Additionally, I am also keen on exploring **why** these models work and how to make them more interpretable and robust.
 
+News
+------
+•	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/) 🎉!
+•	**[Jan. 2025]** One paper about is accepted by [**IEEE ISBI 2025**](https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging) 🎉!
+•	**[Jan. 2025]** We release [**SusGen-GPT**](https://github.com/JerryWu-code/SusGen), LLMs for financial NLP and sustainability report generation 📈.
+•	**[Dec. 2024]** We release newest version [**MuMu-LLaMA**](https://github.com/shansongliu/MuMu-LLaMA) for multi-modal music understanding and generation 🎸.
+•	**[Dec. 2024]** We release [**TextoMorph**](https://github.com/MrGiovanni/TextoMorph), text-driven tumor synthesis 🧬.
+•	**[Nov. 2024]** We release [**Label Critic**](https://github.com/PedroRASB/Cerberus), VLM pipeline for detecting data issues in medical images 🕵️.
+
 Publications & Preprints
 ------
 \* Equal contribution, † Corresponding author
