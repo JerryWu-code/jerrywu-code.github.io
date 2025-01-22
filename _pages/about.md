@@ -14,11 +14,11 @@ News
 ------
 •	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/) 🎉!<br />
 •	**[Jan. 2025]** One paper about is accepted by [**IEEE ISBI 2025**](https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging) 🎉!<br />
-•	**[Jan. 2025]** We release [**SusGen-GPT**](https://github.com/JerryWu-code/SusGen), LLM experts for financial NLP and sustainability report generation 📈.<br />
-•	**[Dec. 2024]** We release [**ScaleMAI**](https://github.com/MrGiovanni/ScaleMAI), iterative system to scale up Medical AI by enhancing data annotation 🏥.<br />
-•	**[Dec. 2024]** We release newest version [**MuMu-LLaMA**](https://github.com/shansongliu/MuMu-LLaMA) for multi-modal music understanding and generation 🎸.<br />
+•	**[Jan. 2025]** We release [**SusGen-GPT**](https://github.com/JerryWu-code/SusGen), LLMs for report generation and finance NLP 📈.<br />
+•	**[Dec. 2024]** We release [**ScaleMAI**](https://github.com/MrGiovanni/ScaleMAI), iterative system to scale up Medical AI 🏥.<br />
+•	**[Dec. 2024]** We release [**MuMu-LLaMA**](https://github.com/shansongliu/MuMu-LLaMA) for multi-modal music Understanding and Gen 🎸.<br />
 •	**[Dec. 2024]** We release [**TextoMorph**](https://github.com/MrGiovanni/TextoMorph), text-driven tumor synthesis 🏥.<br />
-•	**[Nov. 2024]** We release [**Label Critic**](https://github.com/PedroRASB/Cerberus), VLM pipeline for detecting  medical images data errors 🕵️.
+•	**[Nov. 2024]** We release [**Label Critic**](https://github.com/PedroRASB/Cerberus), VLM pipeline to detect medical images data errors 🕵️.
 
 Publications & Preprints
 ------
