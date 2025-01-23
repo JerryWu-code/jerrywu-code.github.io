@@ -45,6 +45,7 @@ You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji†, Li Li, Pengcheng Ca
 <span style="color:red; font-weight:bold">Accepted</span> by <a href="https://2025.naacl.org/"><strong>NAACL</strong></a> Findings, 2025 |
 <a href="https://arxiv.org/pdf/2412.10906">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen">Code</a> |
+<a href="https://huggingface.co/WHATX">HuggingFace</a> |
 <a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a> |
 <a href="{{ site.baseurl }}/files/bibtex/susgen.txt" target="_blank">BibTeX</a>
 <br />
