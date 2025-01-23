@@ -42,7 +42,7 @@ Accepted by <a href="https://iclr.cc/"><strong>ICLR</strong></a>, 2025 |
 <p style="line-height:1.0">
 <font size="2">
 <strong>Qilong Wu†</strong>, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
-arXiv Preprint, Under Review in <strong>NAACL</strong>, 2025 |
+Accepted by <a href="https://2025.naacl.org/"><strong>NAACL</strong></a> Findings, 2025 |
 <a href="https://arxiv.org/pdf/2412.10906">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen">Code</a> |
 <a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a> |
