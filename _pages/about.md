@@ -30,7 +30,7 @@ Publications & Preprints
 <p style="line-height:1.0">
 <font size="2">
 You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji†, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann†<br />
-Accepted by <a href="https://iclr.cc/"><strong>ICLR</strong></a>, 2025 |
+<span style="color:red; font-weight:bold">Accepted</span> by <a href="https://iclr.cc/"><strong>ICLR</strong></a>, 2025 |
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> |
 <a href="{{ site.baseurl }}/files/bibtex/gvmr.txt" target="_blank">BibTeX</a>
 <br />
@@ -42,7 +42,7 @@ Accepted by <a href="https://iclr.cc/"><strong>ICLR</strong></a>, 2025 |
 <p style="line-height:1.0">
 <font size="2">
 <strong>Qilong Wu†</strong>, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
-Accepted by <a href="https://2025.naacl.org/"><strong>NAACL</strong></a> Findings, 2025 |
+<span style="color:red; font-weight:bold">Accepted</span> by <a href="https://2025.naacl.org/"><strong>NAACL</strong></a> Findings, 2025 |
 <a href="https://arxiv.org/pdf/2412.10906">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen">Code</a> |
 <a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a> |
@@ -97,7 +97,7 @@ arXiv Preprint, Under Review in <strong>CVPR</strong>, 2025 |
 <p style="line-height:1.0">
 <font size="2">
 Pedro R. A. S. Bassi, <strong>Qilong Wu</strong>, Wenxuan Li, Sergio Decherchi, Andrea Cavalli, Alan Yuille, Zongwei Zhou†<br />
-Accepted by <a href="https://app.gleanin.com/share/campaigns/30001/variants"><strong>IEEE ISBI</strong></a>, 2025 |
+<span style="color:red; font-weight:bold">Accepted</span> by <a href="https://app.gleanin.com/share/campaigns/30001/variants"><strong>IEEE ISBI</strong></a>, 2025 |
 <a href="https://arxiv.org/pdf/2411.02753">Paper</a> |
 <a href="https://github.com/PedroRASB/Cerberus">Code</a> |
 <a href="{{ site.baseurl }}/files/bibtex/labcri.txt" target="_blank">BibTeX</a>
