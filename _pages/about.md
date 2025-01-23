@@ -12,7 +12,7 @@ My current research interests lie in **Multi-modal learning**, spanning video, i
 
 News
 ------
-•	**[Mar. 2025]** One paper is accepted by [**NAACL 2025**](https://2025.naacl.org/) Findings 🎉!<br />
+•	**[Jan. 2025]** One paper is accepted by [**NAACL 2025**](https://2025.naacl.org/) Findings 🎉!<br />
 •	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/) 🎉!<br />
 •	**[Jan. 2025]** One paper is accepted by [**IEEE ISBI 2025**](https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging) 🎉!<br />
 •	**[Jan. 2025]** We release [**SusGen-GPT**](https://github.com/JerryWu-code/SusGen), LLMs for report generation and finance NLP 📈.<br />
