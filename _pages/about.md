@@ -13,7 +13,7 @@ My current research interests lie in **Multimodal learning**, spanning video, im
 News
 ------
 •	**[Jan. 2025]** One paper is accepted by [**NAACL 2025**](https://2025.naacl.org/) Findings 🎉!<br />
-•	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/) 🎉!<br />
+•	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/virtual/2025/poster/28243) Poster 🎉!<br />
 •	**[Jan. 2025]** One paper is accepted by [**IEEE ISBI 2025**](https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging) 🎉!<br />
 •	**[Jan. 2025]** We release [**SusGen-GPT**](https://github.com/JerryWu-code/SusGen), LLMs for report generation and finance NLP 📈.<br />
 •	**[Dec. 2024]** We release [**ScaleMAI**](https://github.com/MrGiovanni/ScaleMAI), iterative system to scale up Medical AI 🏥.<br />
@@ -32,6 +32,7 @@ Publications & Preprints
 You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji†, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann†<br />
 <span style="color:red; font-weight:bold">Accepted</span> by <a href="https://iclr.cc/"><strong>ICLR</strong></a>, 2025 |
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> |
+<a href="https://iclr.cc/virtual/2025/poster/28243">Poster</a> |
 <a href="{{ site.baseurl }}/files/bibtex/gvmr.txt" target="_blank">BibTeX</a>
 <br />
 </font>
