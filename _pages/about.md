@@ -45,7 +45,7 @@ You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji†, Li Li, Pengcheng Ca
 <strong>Qilong Wu†</strong>, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
 <span style="color:red; font-weight:bold">Accepted</span> by <a href="https://2025.naacl.org/"><strong>NAACL</strong></a> Findings, 2025 |
 <a href="https://arxiv.org/pdf/2412.10906">Paper</a> |
-<a href="https://github.com/JerryWu-code/SusGen">Code</a> |
+<a href="https://github.com/JerryWu-code/SusGen"><img src="https://img.shields.io/github/stars/JerryWu-code/SusGen?label=Code" alt="GitHub Repo stars"></a> |
 <a href="https://huggingface.co/WHATX">HuggingFace</a> |
 <a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a> |
 <a href="{{ site.baseurl }}/files/bibtex/susgen.txt" target="_blank">BibTeX</a>
@@ -73,8 +73,8 @@ Under Review in <strong>CVPR</strong>, 2025 |
 Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
 arXiv Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
 <a href="https://arxiv.org/pdf/2412.06660">Paper</a> |
-<a href="https://github.com/shansongliu/M2UGen">Code</a> |
-<a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video Demo</a> |
+<a href="https://github.com/shansongliu/MuMu-LLaMA"><img src="https://img.shields.io/github/stars/shansongliu/MuMu-LLaMA?label=Code" alt="GitHub Repo stars"></a> |
+<a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video</a> |
 <a href="https://crypto-code.github.io/MuMu-LLaMA_Demo/">Website</a> |
 <a href="{{ site.baseurl }}/files/bibtex/mumullama.txt" target="_blank">BibTeX</a>
 <br />
@@ -88,7 +88,7 @@ arXiv Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
 Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <strong>Qilong Wu</strong>, Pengfei Guo, Dong Yang, Can Zhao, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou†<br />
 arXiv Preprint, Under Review in <strong>CVPR</strong>, 2025 |
 <a href="https://arxiv.org/pdf/2412.18589">Paper</a> |
-<a href="https://github.com/MrGiovanni/TextoMorph">Code</a> |
+<a href="https://github.com/MrGiovanni/TextoMorph"><img src="https://img.shields.io/github/stars/MrGiovanni/TextoMorph?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/bibtex/textmorph.txt" target="_blank">BibTeX</a>
 <br />
 </font>
@@ -101,7 +101,7 @@ arXiv Preprint, Under Review in <strong>CVPR</strong>, 2025 |
 Pedro R. A. S. Bassi, <strong>Qilong Wu</strong>, Wenxuan Li, Sergio Decherchi, Andrea Cavalli, Alan Yuille, Zongwei Zhou†<br />
 <span style="color:red; font-weight:bold">Accepted</span> by <a href="https://app.gleanin.com/share/campaigns/30001/variants"><strong>IEEE ISBI</strong></a>, 2025 |
 <a href="https://arxiv.org/pdf/2411.02753">Paper</a> |
-<a href="https://github.com/PedroRASB/Cerberus">Code</a> |
+<a href="https://github.com/PedroRASB/Cerberus"><img src="https://img.shields.io/github/stars/PedroRASB/Cerberus?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/bibtex/labcri.txt" target="_blank">BibTeX</a>
 <br />
 </font>
@@ -114,7 +114,7 @@ Pedro R. A. S. Bassi, <strong>Qilong Wu</strong>, Wenxuan Li, Sergio Decherchi, 
 Wenxuan Li, Pedro R. A. S. Bassi, Tianyu Lin, Yu-Cheng Chou, Xinze Zhou, Yucheng Tang, Fabian Isensee, Kang Wang, Qi Chen, Xiaowei Xu, Xiaoxi Chen, Lizhou Wu, <strong>Qilong Wu</strong>, Yannick Kirchhoff, Maximilian Rokuss, Saikat Roy, Yuxuan Zhao, Dexin Yu, Kai Ding, Constantin Ulrich, Klaus Maier-Hein, Yang Yang, Alan L. Yuille, Zongwei Zhou†<br />
 arXiv Preprint, Under Review in <strong>CVPR</strong>, 2025 |
 <a href="https://www.cs.jhu.edu/~zongwei/publication/li2025scalemai.pdf">Paper</a> |
-<a href="https://github.com/MrGiovanni/ScaleMAI">Code</a> |
+<a href="https://github.com/MrGiovanni/ScaleMAI"><img src="https://img.shields.io/github/stars/MrGiovanni/ScaleMAI?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/bibtex/scalemai.txt" target="_blank">BibTeX</a>
 <br />
 </font>
