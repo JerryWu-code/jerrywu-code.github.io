@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I’m a MSc student at **National University of Singapore**, and I became extreme passionate about AI since Sep. 2023. I'm currently working at OpenGV-Alpha@**Shanghai AI Lab** mentored by [Dr. Peng Gao](https://scholar.google.com/citations?hl=en&user=_go6DPsAAAAJ&view_op=list_works&sortby=pubdate). And I was luckily advised by [Dr. Zongwei Zhou](https://scholar.google.com/citations?user=JVOeczAAAAAJ&hl=en) and Bloomberg Distinguished [Prof. Alan L. Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl) at [CCVL](https://ccvl.jhu.edu/)@**Johns Hopkins University**. Previously, I also spent a wonderful time with [Prof. Bharadwaj Veeravalli](https://scholar.google.com/citations?user=IqAJttsAAAAJ&hl=en), [Prof. Roger Zimmermann](https://scholar.google.com.tw/citations?user=IDREwXEAAAAJ)@NUS. Prior to that, I received my BSc degree in Physics, focusing on Nonlinear Dynamics & Chaos Theory and Bio-Physics.<br />
-My current research interests lie in **Multimodal learning**, spanning video, image, action, audio, planning, medical, etc., with a broader focus on **Diffusion Models**, **Physics-Informed** learning and **RL-LLMs** (o1/r1); Additionally, I am also keen on exploring **why** these models work and how to make them more interpretable and robust.
+My current research interests lie in **Multimodal learning**, spanning video, image, action, audio, planning, etc., with a broader focus on **Diffusion Models**, **Physics-Informed** learning and **RL-LLMs** (o1/r1/s1); Additionally, I am also keen on exploring **why** these models work and how to make them more interpretable and robust.
 
 News
 ------
@@ -47,7 +47,7 @@ You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji†, Li Li, Pengcheng Ca
 <a href="https://arxiv.org/pdf/2412.10906">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen"><img src="https://img.shields.io/github/stars/JerryWu-code/SusGen?label=Code" alt="GitHub Repo stars"></a> |
 <a href="https://huggingface.co/WHATX">HuggingFace</a> |
-<a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video</a> |
+<a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a> |
 <a href="{{ site.baseurl }}/files/bibtex/susgen.txt" target="_blank">BibTeX</a>
 <br />
 </font>
@@ -71,7 +71,7 @@ Under Review in <strong>CVPR</strong>, 2025 |
 <p style="line-height:1.0">
 <font size="2">
 Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
-Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
+arXiv Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
 <a href="https://arxiv.org/pdf/2412.06660">Paper</a> |
 <a href="https://github.com/shansongliu/MuMu-LLaMA"><img src="https://img.shields.io/github/stars/shansongliu/MuMu-LLaMA?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video</a> |
@@ -86,7 +86,7 @@ Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
 <p style="line-height:1.0">
 <font size="2">
 Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <strong>Qilong Wu</strong>, Pengfei Guo, Dong Yang, Can Zhao, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou†<br />
-Preprint, Under Review in <strong>CVPR</strong>, 2025 |
+arXiv Preprint, Under Review in <strong>CVPR</strong>, 2025 |
 <a href="https://arxiv.org/pdf/2412.18589">Paper</a> |
 <a href="https://github.com/MrGiovanni/TextoMorph"><img src="https://img.shields.io/github/stars/MrGiovanni/TextoMorph?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/bibtex/textmorph.txt" target="_blank">BibTeX</a>
@@ -112,7 +112,7 @@ Pedro R. A. S. Bassi, <strong>Qilong Wu</strong>, Wenxuan Li, Sergio Decherchi, 
 <p style="line-height:1.0">
 <font size="2">
 Wenxuan Li, Pedro R. A. S. Bassi, Tianyu Lin, Yu-Cheng Chou, Xinze Zhou, Yucheng Tang, Fabian Isensee, Kang Wang, Qi Chen, Xiaowei Xu, Xiaoxi Chen, Lizhou Wu, <strong>Qilong Wu</strong>, Yannick Kirchhoff, Maximilian Rokuss, Saikat Roy, Yuxuan Zhao, Dexin Yu, Kai Ding, Constantin Ulrich, Klaus Maier-Hein, Yang Yang, Alan L. Yuille, Zongwei Zhou†<br />
-Preprint, Under Review in <strong>CVPR</strong>, 2025 |
+arXiv Preprint, Under Review in <strong>CVPR</strong>, 2025 |
 <a href="https://www.cs.jhu.edu/~zongwei/publication/li2025scalemai.pdf">Paper</a> |
 <a href="https://github.com/MrGiovanni/ScaleMAI"><img src="https://img.shields.io/github/stars/MrGiovanni/ScaleMAI?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/bibtex/scalemai.txt" target="_blank">BibTeX</a>
