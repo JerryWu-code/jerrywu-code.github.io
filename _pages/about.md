@@ -71,7 +71,7 @@ Under Review in <strong>CVPR</strong>, 2025 |
 <p style="line-height:1.0">
 <font size="2">
 Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
-arXiv Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
+Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
 <a href="https://arxiv.org/pdf/2412.06660">Paper</a> |
 <a href="https://github.com/shansongliu/MuMu-LLaMA"><img src="https://img.shields.io/github/stars/shansongliu/MuMu-LLaMA?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video</a> |
@@ -86,7 +86,7 @@ arXiv Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
 <p style="line-height:1.0">
 <font size="2">
 Xinran Li, Yi Shuai, Chen Liu, Qi Chen, <strong>Qilong Wu</strong>, Pengfei Guo, Dong Yang, Can Zhao, Pedro R. A. S. Bassi, Daguang Xu, Kang Wang, Yang Yang, Alan Yuille, Zongwei Zhou†<br />
-arXiv Preprint, Under Review in <strong>CVPR</strong>, 2025 |
+Preprint, Under Review in <strong>CVPR</strong>, 2025 |
 <a href="https://arxiv.org/pdf/2412.18589">Paper</a> |
 <a href="https://github.com/MrGiovanni/TextoMorph"><img src="https://img.shields.io/github/stars/MrGiovanni/TextoMorph?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/bibtex/textmorph.txt" target="_blank">BibTeX</a>
@@ -112,7 +112,7 @@ Pedro R. A. S. Bassi, <strong>Qilong Wu</strong>, Wenxuan Li, Sergio Decherchi, 
 <p style="line-height:1.0">
 <font size="2">
 Wenxuan Li, Pedro R. A. S. Bassi, Tianyu Lin, Yu-Cheng Chou, Xinze Zhou, Yucheng Tang, Fabian Isensee, Kang Wang, Qi Chen, Xiaowei Xu, Xiaoxi Chen, Lizhou Wu, <strong>Qilong Wu</strong>, Yannick Kirchhoff, Maximilian Rokuss, Saikat Roy, Yuxuan Zhao, Dexin Yu, Kai Ding, Constantin Ulrich, Klaus Maier-Hein, Yang Yang, Alan L. Yuille, Zongwei Zhou†<br />
-arXiv Preprint, Under Review in <strong>CVPR</strong>, 2025 |
+Preprint, Under Review in <strong>CVPR</strong>, 2025 |
 <a href="https://www.cs.jhu.edu/~zongwei/publication/li2025scalemai.pdf">Paper</a> |
 <a href="https://github.com/MrGiovanni/ScaleMAI"><img src="https://img.shields.io/github/stars/MrGiovanni/ScaleMAI?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/bibtex/scalemai.txt" target="_blank">BibTeX</a>
