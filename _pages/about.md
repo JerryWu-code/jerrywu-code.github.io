@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Hi! I’m a MSc student at **National University of Singapore**, and I became extreme passionate about AI since Sep. 2023. I'm currently working at OpenGV-Alpha@**Shanghai AI Lab** mentored by [Dr. Peng Gao](https://scholar.google.com/citations?hl=en&user=_go6DPsAAAAJ&view_op=list_works&sortby=pubdate). And I was luckily advised by [Dr. Zongwei Zhou](https://scholar.google.com/citations?user=JVOeczAAAAAJ&hl=en) and Bloomberg Distinguished [Prof. Alan L. Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl) at [CCVL](https://ccvl.jhu.edu/)@**Johns Hopkins University**. Previously, I also spent a wonderful time with [Prof. Bharadwaj Veeravalli](https://scholar.google.com/citations?user=IqAJttsAAAAJ&hl=en), [Prof. Roger Zimmermann](https://scholar.google.com.tw/citations?user=IDREwXEAAAAJ)@NUS. Prior to that, I received my BSc degree in Physics, focusing on Nonlinear Dynamics & Chaos Theory and Bio-Physics.<br />
-My current research interests lie in **Multimodal learning**, spanning video, image, action, audio, planning, etc., with a broader focus on **Diffusion Models**, **Physics-Informed** learning and **RL-LLMs** (o1/r1/s1); Additionally, I am also keen on exploring **why** these models work and how to make them more interpretable and robust.
+My current research interests lie in **Multimodal learning**, spanning video, image, action, audio, planning, etc., with a broader focus on **Diffusion Models**, **Physics-Informed** learning and **RL-LLMs** (o1/r1); Additionally, I am also keen on exploring **why** these models work and how to make them more interpretable and robust.
 
 News
 ------
