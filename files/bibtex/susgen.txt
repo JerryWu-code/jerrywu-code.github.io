@@ -1,6 +1,7 @@
-@article{wu2024susgen,
-  title={SusGen-GPT: A Data-Centric LLM for Financial NLP and Sustainability Report Generation},
+@inproceedings{wu2025susgengpt,
+  title={\$SusGen-{GPT}\$: A Data-Centric {LLM} for Financial {NLP} and Sustainability Report Generation},
   author={Wu, Qilong and Xiang, Xiaoneng and Huang, Hejia and Wang, Xuan and Jie, Yeo Wei and Satapathy, Ranjan and Veeravalli, Bharadwaj and others},
-  journal={arXiv preprint arXiv:2412.10906},
-  year={2024}
+  booktitle={The 2025 Annual Conference of the Nations of the Americas Chapter of the ACL},
+  year={2025},
+  url={https://arxiv.org/abs/2412.10906}
 }
