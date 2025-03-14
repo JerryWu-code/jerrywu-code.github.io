@@ -29,7 +29,7 @@ Publications & Preprints
 ### Generalized Video Moment Retrieval
 <p style="line-height:1.0">
 <font size="2">
-You Qin*, <strong>Qilong Wu*</strong>, Yicong Li, Wei Ji†, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann†<br />
+You Qin*, <strong>Qilong Wu*</strong>, Yicong Li†, Wei Ji†, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann<br />
 <span style="color:red; font-weight:bold">Accepted</span> by <a href="https://iclr.cc/"><strong>ICLR</strong></a>, 2025 |
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> |
 <a href="https://iclr.cc/virtual/2025/poster/28243">Poster</a> |
