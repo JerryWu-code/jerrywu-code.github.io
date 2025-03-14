@@ -1,6 +1,6 @@
-@misc{li2024learning,
-  title={Learning to Animate Images from A Few Videos to Portray Delicate Human Actions},
-  author={Haoxin Li and Yingchen Yu and Qilong Wu and Hanwang Zhang and Boyang Li and Song Bai},
-  year={2024},
-  url={https://openreview.net/forum?id=3By4N0GAdt}
+@article{li2025learning,
+    title={Learning to Animate Images from A Few Videos to Portray Delicate Human Actions},
+    author={Li, Haoxin and Yu, Yingchen and Wu, Qilong and Zhang, Hanwang and Bai, Song and Li, Boyang},
+    journal={arXiv preprint arXiv:2503.00276},
+    year={2025}
 }
