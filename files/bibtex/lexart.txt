@@ -1,0 +1,6 @@
+@article{zhao2025lexart,
+    title={LeX-Art: Rethinking Text Generation via Scalable High-Quality Data Synthesis},
+    author={Zhao, Shitian and Wu, Qilong and Li, Xinyue and Zhang, Bo and Li, Ming and Qin, Qi and Liu, Dongyang and Zhang, Kaipeng and Li, Hongsheng and Qiao, Yu and Gao, Peng and Fu, Bin and Li, Zhen},
+    journal={arXiv preprint arXiv:2503.21749},
+    year={2025}
+}

@@ -12,6 +12,8 @@ My current research interests lie in **Reasoning LLMs**, **Multimodal learning**
 
 News
 ------
+•	**[Mar. 2025]** We release [**Lex-Art**](https://github.com/zhaoshitian/LeX-Art), a framework rethinking visual text generation via Scalable High-Quality Data Synthesis 🎨.<br />
+•	**[Mar. 2025]** We release [**FLASH**](https://lihaoxin05.github.io/human_action_animation/), Few-shot Learning to Animate and Steer Humans 🎬.<br />
 •	**[Jan. 2025]** One paper is accepted by [**NAACL 2025**](https://2025.naacl.org/) Findings 🎉!<br />
 •	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/virtual/2025/poster/28243) Poster 🎉!<br />
 •	**[Jan. 2025]** One paper is accepted by [**IEEE ISBI 2025**](https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging) 🎉!<br />
@@ -25,6 +27,33 @@ Publications & Preprints
 ------
 \* Equal contribution, † Corresponding author
 
+<img style="float: left; margin:5px 10px" src="../images/pubs/lexart/cover.png" width="160" height="140">
+### LeX-Art: Rethinking Text Generation via Scalable High-Quality Data Synthesis
+<p style="line-height:1.0">
+<font size="2">
+Shitian Zhao*, <strong>Qilong Wu*</strong>, Xinyue Li*, Bo Zhang, Ming Li, Qi Qin, Dongyang Liu, Kaipeng Zhang, Hongsheng Li, Yu Qiao, Peng Gao, Bin Fu†, Zhen Li†<br />
+Preprint, 2025 |
+<a href="https://arxiv.org/abs/2503.21749">Paper</a> |
+<a href="https://github.com/JerryWu-code/SusGen"><img src="https://img.shields.io/github/stars/zhaoshitian/LeX-Art?label=Code" alt="GitHub Repo stars"></a> |
+<a href="https://zhaoshitian.github.io/lexart">Project Page</a> |
+<a href="{{ site.baseurl }}/files/bibtex/lexart.txt" target="_blank">BibTeX</a>
+<br />
+</font>
+</p>
+------
+<img style="float: left; margin:5px 10px" src="../images/pubs/cva/demo.gif" width="160" height="140">
+### Learning to Animate Images from A Few Videos to Portray Delicate Human Actions
+<p style="line-height:1.0">
+<font size="2">
+Haoxin Li, Yingchen Yu, <strong>Qilong Wu</strong>, Hanwang Zhang, Song Bai, Boyang Li<br />
+Preprint, 2025 |
+<a href="https://arxiv.org/pdf/2503.00276">Paper</a> |
+<a href="https://lihaoxin05.github.io/human_action_animation/">Project Page</a> |
+<a href="{{ site.baseurl }}/files/bibtex/cva.txt" target="_blank">BibTeX</a>
+<br />
+</font>
+</p>
+------
 <img style="float: left; margin:5px 10px" src="../images/pubs/gvmr/model.jpg" width="160" height="140">
 ### Generalized Video Moment Retrieval
 <p style="line-height:1.0">
@@ -49,19 +78,6 @@ You Qin*, <strong>Qilong Wu*</strong>, Yicong Li†, Wei Ji†, Li Li, Pengcheng
 <a href="https://huggingface.co/WHATX">HuggingFace</a> |
 <a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a> |
 <a href="{{ site.baseurl }}/files/bibtex/susgen.txt" target="_blank">BibTeX</a>
-<br />
-</font>
-</p>
-------
-<img style="float: left; margin:5px 10px" src="../images/pubs/cva/demo.gif" width="160" height="140">
-### Learning to Animate Images from A Few Videos to Portray Delicate Human Actions
-<p style="line-height:1.0">
-<font size="2">
-Haoxin Li, Yingchen Yu, <strong>Qilong Wu</strong>, Hanwang Zhang, Song Bai, Boyang Li<br />
-Preprint, 2025 |
-<a href="https://arxiv.org/pdf/2503.00276">Paper</a> |
-<a href="https://lihaoxin05.github.io/human_action_animation/">Project Page</a> |
-<a href="{{ site.baseurl }}/files/bibtex/cva.txt" target="_blank">BibTeX</a>
 <br />
 </font>
 </p>
