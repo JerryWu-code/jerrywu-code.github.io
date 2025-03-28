@@ -142,7 +142,7 @@ Academic Services
 •	Reviewer of International Conference on Machine Learning (**ICML**), 2025.<br />
 •	Reviewer of International Conference on Learning Representations (**ICLR**), 2025.<br />
 •	Reviewer of International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2025.<br />
-•	Reviewer of Conference on Neural Information Processing Systems (**NIPS**), 2024.<br />
+•	Reviewer of Conference on Neural Information Processing Systems (**NIPS**), 2024 & 2025.<br />
 •	Reviewer of ACM International Conference on Multimedia (**ACM MM**), 2024.<br />
 
 Miscellaneous
