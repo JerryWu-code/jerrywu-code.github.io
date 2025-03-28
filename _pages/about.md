@@ -12,7 +12,7 @@ My current research interests lie in **Reasoning LLMs**, **Multimodal learning**
 
 News
 ------
-•	**[Mar. 2025]** We release [**Lex-Art**](https://github.com/zhaoshitian/LeX-Art), a framework rethinking visual text generation via Scalable High-Quality Data Synthesis 🎨.<br />
+•	**[Mar. 2025]** We release [**Lex-Art**](https://github.com/zhaoshitian/LeX-Art), a visual text generation framework 🎨.<br />
 •	**[Mar. 2025]** We release [**FLASH**](https://lihaoxin05.github.io/human_action_animation/), Few-shot Learning to Animate and Steer Humans 🎬.<br />
 •	**[Jan. 2025]** One paper is accepted by [**NAACL 2025**](https://2025.naacl.org/) Findings 🎉!<br />
 •	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/virtual/2025/poster/28243) Poster 🎉!<br />
