@@ -33,7 +33,7 @@ Publications & Preprints
 <font size="2">
 Shitian Zhao*, <strong>Qilong Wu*</strong>, Xinyue Li*, Bo Zhang, Ming Li, Qi Qin, Dongyang Liu, Kaipeng Zhang, Hongsheng Li, Yu Qiao, Peng Gao, Bin Fu†, Zhen Li†<br />
 Preprint, 2025 |
-<a href="https://arxiv.org/abs/2503.21749">Paper</a> |
+<a href="https://arxiv.org/pdf/2503.21749">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen"><img src="https://img.shields.io/github/stars/zhaoshitian/LeX-Art?label=Code" alt="GitHub Repo stars"></a> |
 <a href="https://zhaoshitian.github.io/lexart">Project Page</a> |
 <a href="{{ site.baseurl }}/files/bibtex/lexart.txt" target="_blank">BibTeX</a>
