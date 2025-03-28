@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 Hi! I’m currently a researcher at **Shanghai AI Lab** mentored by [Dr. Peng Gao](https://scholar.google.com/citations?hl=en&user=_go6DPsAAAAJ&view_op=list_works&sortby=pubdate). Previously I was a MSc student at **National University of Singapore**, and I became extreme passionate about AI since Sep. 2023. And I was luckily advised by [Prof. Alan L. Yuille](https://scholar.google.com/citations?user=FJ-huxgAAAAJ&hl) at [CCVL](https://ccvl.jhu.edu/)@**Johns Hopkins University**. Previously, I also spent a wonderful time with [Prof. Bharadwaj Veeravalli](https://scholar.google.com/citations?user=IqAJttsAAAAJ&hl=en), [Prof. Roger Zimmermann](https://scholar.google.com.tw/citations?user=IDREwXEAAAAJ)@NUS. Prior to that, I received my BSc degree in Physics, focusing on Nonlinear Dynamics & Chaos Theory and Bio-Physics.<br />
-My current research interests lie in **Reasoning LLMs**, **Multimodal learning**, spanning video, image, action, audio, planning, etc., with a broader focus on **Diffusion Models** and **Physics-Informed** learning; Additionally, I am also keen on exploring **why** these models work and how to make them more interpretable and robust.
+My current research interests lie in **Reasoning LLMs**, **Reinforcement learning**, **Multimodal learning**, spanning video, image, action, audio, planning, etc., with a broader focus on **Diffusion Models** and **Physics-Informed** learning; Additionally, I am also keen on exploring **why** these models work and how to make them more interpretable and robust.
 
 News
 ------
 •	**[Mar. 2025]** We release [**Lex-Art**](https://github.com/zhaoshitian/LeX-Art), a visual text generation framework 🎨.<br />
 •	**[Mar. 2025]** We release [**FLASH**](https://lihaoxin05.github.io/human_action_animation/), Few-shot Learning to Animate and Steer Humans 🎬.<br />
+•	**[Jan. 2025]** **First** to reproduce TinyZero with [report](https://wandb.ai/alpha-rl/TinyZero/reports/TinyZero-R1-Countdown-Qilong-Wu--VmlldzoxMTExOTEzMA). Find my fork: <a href="https://github.com/JerryWu-code/TinyZero"><img src="https://img.shields.io/github/stars/JerryWu-code/TinyZero?label=Code" alt="GitHub Repo stars"></a>.<br />
 •	**[Jan. 2025]** One paper is accepted by [**NAACL 2025**](https://2025.naacl.org/) Findings 🎉!<br />
 •	**[Jan. 2025]** One paper is accepted by [**ICLR 2025**](https://iclr.cc/virtual/2025/poster/28243) Poster 🎉!<br />
 •	**[Jan. 2025]** One paper is accepted by [**IEEE ISBI 2025**](https://signalprocessingsociety.org/blog/isbi-2025-2025-ieee-international-symposium-biomedical-imaging) 🎉!<br />
