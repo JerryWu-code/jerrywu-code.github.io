@@ -62,7 +62,7 @@ Preprint, 2025 |
 You Qin*, <strong>Qilong Wu*</strong>, Yicong Li†, Wei Ji†, Li Li, Pengcheng Cai, Lina Wei, Roger Zimmermann<br />
 <span style="color:red; font-weight:bold">Accepted</span> by <a href="https://iclr.cc/"><strong>ICLR</strong></a>, 2025 |
 <a href="https://openreview.net/pdf?id=qdOIkeZ5e4">Paper</a> |
-<a href="https://iclr.cc/virtual/2025/poster/28243">Poster</a> |
+<a href="https://iclr.cc/media/PosterPDFs/ICLR%202025/28243.png?t=1745447728.8523176">Poster</a> |
 <a href="{{ site.baseurl }}/files/bibtex/gvmr.txt" target="_blank">BibTeX</a>
 <br />
 </font>
@@ -74,7 +74,7 @@ You Qin*, <strong>Qilong Wu*</strong>, Yicong Li†, Wei Ji†, Li Li, Pengcheng
 <font size="2">
 <strong>Qilong Wu†</strong>, Xiaoneng Xiang, Huang Hejia, Xuan Wang, Yeo Wei Jie, Ranjan Satapathy, Ricardo Shirota Filho, and Bharadwaj Veeravalli<br />
 <span style="color:red; font-weight:bold">Accepted</span> by <a href="https://2025.naacl.org/"><strong>NAACL</strong></a> Findings, 2025 |
-<a href="https://arxiv.org/pdf/2412.10906">Paper</a> |
+<a href="https://aclanthology.org/2025.findings-naacl.66.pdf">Paper</a> |
 <a href="https://github.com/JerryWu-code/SusGen"><img src="https://img.shields.io/github/stars/JerryWu-code/SusGen?label=Code" alt="GitHub Repo stars"></a> |
 <a href="https://huggingface.co/WHATX">HuggingFace</a> |
 <a href="{{ site.baseurl }}/files/susgen_demo.mp4" target="_blank">Video Demo</a> |
@@ -88,7 +88,7 @@ You Qin*, <strong>Qilong Wu*</strong>, Yicong Li†, Wei Ji†, Li Li, Pengcheng
 <p style="line-height:1.0">
 <font size="2">
 Shansong Liu*†, Atin Sakkeer Hussain*, <strong>Qilong Wu*</strong>, Sun Chenshuo, Ying Shan<br />
-Preprint, Under Review in <strong>IEEE J-STSP</strong>, 2025 |
+Preprint, Under Review, 2025 |
 <a href="https://arxiv.org/pdf/2412.06660">Paper</a> |
 <a href="https://github.com/shansongliu/MuMu-LLaMA"><img src="https://img.shields.io/github/stars/shansongliu/MuMu-LLaMA?label=Code" alt="GitHub Repo stars"></a> |
 <a href="{{ site.baseurl }}/files/Mumullama_demo.mp4" target="_blank">Video</a> |
